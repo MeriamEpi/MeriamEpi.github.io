@@ -1,0 +1,26 @@
+---
+title: Meriam Berka
+image: "meriam.jpeg"
+links:
+  - label: Resume
+    url: "https://www.linkedin.com/in/meriam-berka/"
+  
+output:
+  postcards::solana
+---
+
+## Bio
+
+hello! My name is Meriam, I'm a second year MHS student in Epidemiology at the John Hopkins Bloomberg School of Public Health. I'm a social epidemiologist who's interested in maternal and women's health, my background is in sociology so I'm very interested in structural analyses of the causes of health inequity. I'm also a research assistant for the [Center for Indigenous Health](https://cih.jhu.edu) where I primarily use STATA for data cleaning and analysis work. I've tried to make the switch to R quite a few times on my own but intro R courses have been my Sisyphus' boulder, the accountability and guidance of this class was a major motivation to take it.
+
+## Some facts about me
+
+**1.** I'm Moroccan! And a born Baltimorean but I grew up in Calgary, AB near the Rockies.
+
+**2.** I'm a big hobbies person. I used to paint a lot and I got really into cooking over the pandemic, now I'm trying to learn how to sew.
+
+**3.** I'm not a good critic because I like most things so I have a hard time choosing my favourite anything, but my top 3 played songs on spotify are [Tezeta](https://www.youtube.com/watch?v=Wy-v-FgiUD8), [Paper Bag](https://www.youtube.com/watch?v=BK30r_SIZ-g) and [Zina](https://www.youtube.com/watch?v=6-UOmjw9viQ)
+
+**4.** I have a twin (fraternal), she just got married over the summer and we got to have the wedding in Morocco with all our family.
+
+**5.** I was named "most likely to become a motivational speaker" in my senior yearbook which has (thankfully) proven to be totally inaccurate so far.
