@@ -11,7 +11,7 @@ output:
 
 ## Bio
 
-hello! My name is Meriam, I'm a second year MHS student in Epidemiology at the John Hopkins Bloomberg School of Public Health. I'm a social epidemiologist who's interested in maternal and women's health, my background is in sociology so I'm very interested in structural analyses of the causes of health inequity. I'm also a research assistant for the [Center for Indigenous Health](https://cih.jhu.edu) where I primarily use STATA for data cleaning and analysis work. I've tried to make the switch to R quite a few times on my own but intro R courses have been my Sisyphus' boulder, the accountability and guidance of this class was a major motivation to take it.
+hello! My name is Meriam, I'm a second year MHS student in Epidemiology at the John Hopkins Bloomberg School of Public Health. I'm an aspiring social epidemiologist who's interested in maternal and women's health, my background is in sociology so I'm very interested in structural analyses of the causes of health inequity. I'm also a research assistant for the [Center for Indigenous Health](https://cih.jhu.edu) where I primarily use STATA for data cleaning and analysis work. I've tried to make the switch to R quite a few times on my own but intro R courses have been my Sisyphus' boulder, the accountability and guidance of this class was a major motivation to take it.
 
 ## Some facts about me
 
